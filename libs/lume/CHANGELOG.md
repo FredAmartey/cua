@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/trycua/cua/compare/lume-v0.5.3...lume-v0.6.0) (2026-09-25)
+
+
+### Features
+
+* **lume:** support running without a VNC listener ([#3209](https://github.com/trycua/cua/issues/3209)) ([ab957bd](https://github.com/trycua/cua/commit/ab957bdb7566f7e137b00654cc01167d9e42af38))
+
 ## [0.5.3](https://github.com/trycua/cua/compare/lume-v0.5.2...lume-v0.5.3) (2026-08-11)
 
 
