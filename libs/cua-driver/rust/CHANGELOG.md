@@ -6,6 +6,19 @@
 
 * **cua-driver:** deliver X11 key-down before the tap delay and finish background keyboard delivery before closing the input connection.
 
+## [0.29.0](https://github.com/trycua/cua/compare/cua-driver-rs-v0.28.4...cua-driver-rs-v0.29.0) (2026-09-25)
+
+
+### Features
+
+* **cua-driver:** let embedding hosts bound the post-action window observation ([#3929](https://github.com/trycua/cua/issues/3929)) ([1435052](https://github.com/trycua/cua/commit/1435052d6aacecb9f9514d06bf2c11bf202520eb)), closes [#3928](https://github.com/trycua/cua/issues/3928) [#4094](https://github.com/trycua/cua/issues/4094)
+
+
+### Bug Fixes
+
+* **cua-driver:** keep page results whose title suffix only resembles a browser name ([#4103](https://github.com/trycua/cua/issues/4103)) ([2743728](https://github.com/trycua/cua/commit/27437286e634d0ac420336bb65c438b47436c8ca)), closes [#4094](https://github.com/trycua/cua/issues/4094)
+* **cua-driver:** report the same capture refusal codes on every platform ([#4111](https://github.com/trycua/cua/issues/4111)) ([8946c6d](https://github.com/trycua/cua/commit/8946c6d4987181ae65e66c5a101e4030113a75a9)), closes [#4094](https://github.com/trycua/cua/issues/4094)
+
 ## [0.28.4](https://github.com/trycua/cua/compare/cua-driver-rs-v0.28.3...cua-driver-rs-v0.28.4) (2026-09-24)
 
 
